@@ -12898,6 +12898,9 @@ body .ace_closeButton:hover::before {
   border-radius: 50%;
 }
 
+/* [Ari] Unsafe Links */
+
+/*
 .message-group .message .markup-2BOw-j a[href*="https://github.com/0mniscient"],
 .markup-2BOw-j>a[href*="https://github.com/0mniscient"] {
   color: var(--sourcecheck-unsafe) !important;
@@ -12906,9 +12909,14 @@ body .ace_closeButton:hover::before {
 .message-group .message .markup-2BOw-j a[href*="https://github.com/0mniscient"]:after, .markup-2BOw-j>a[href*="https://github.com/0mniscient"]:after{
   content: " " var(--sourcecheck-unsafe-link-icon) !important;
  }
+ */
 
-.markup-2BOw-j a[href="https://discord.gg/kWRYPrq"]:after,
-.markup-2BOw-j>a[href="https://discord.gg/kWRYPrq"]:after,
+/* Unsafe End */
+
+/* [Ari] Safe Links */
+/*
+.markup-2BOw-j a[href="https://github.com/Arion-Kun/Addons"]:after,
+.markup-2BOw-j>a[href="http://discord.gg/actjZAG"]:after,
 .markup-2BOw-j a[href^="https://www.twitch.tv/NFLD99"]:after,
 .markup-2BOw-j a[href^="https://github.com/Inve1951/"]:after,
 .markup-2BOw-j a[href^="https://github.com/rauenzi/"]:after
@@ -12921,8 +12929,8 @@ body .ace_closeButton:hover::before {
   content: " " var(--sourcecheck-official-link-icon) !important;
 }
 
-.markup-2BOw-j a[href="https://discord.gg/kWRYPrq"],
-.markup-2BOw-j>a[href="https://discord.gg/kWRYPrq"],
+.markup-2BOw-j a[href="https://github.com/Arion-Kun/Addons"],
+.markup-2BOw-j>a[href="http://discord.gg/actjZAG"],
 .markup-2BOw-j a[href^="https://www.twitch.tv/NFLD99"],
 .markup-2BOw-j a[href^="https://github.com/Inve1951/"],
 .markup-2BOw-j a[href^="https://github.com/rauenzi/"],
@@ -12934,8 +12942,8 @@ body .ace_closeButton:hover::before {
 {
   color: var(--sourcecheck-official) !important;
 }
-
-/* Thanks Gibbu 174868361040232448 */
+*/
+/* Safe End */
 
 [role][aria-label]:not([aria-label="Spoiler"]):not([role="dialog"]) *,
 .wrapper-3t9DeA * {
