@@ -1,6 +1,7 @@
 /* [Ari] Unsafe Links */
 .message-group .message .markup-2BOw-j a[href*="https://github.com/0mniscient"],
-.markup-2BOw-j>a[href*="https://github.com/0mniscient"] 
+.markup-2BOw-j>a[href*="https://github.com/0mniscient"],
+.markup-2BOw-j>a[href*="https://google.co.za"],
 
 {
   color: var(--sourcecheck-unsafe) !important;
