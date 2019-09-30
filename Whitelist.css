@@ -1,12 +1,19 @@
 /* [Ari] Unsafe Links */
 .message-group .message .markup-2BOw-j a[href*="https://github.com/0mniscient"],
-.markup-2BOw-j>a[href*="https://github.com/0mniscient"] {
+.markup-2BOw-j>a[href*="https://github.com/0mniscient"] 
+
+{
   color: var(--sourcecheck-unsafe) !important;
 }
 
-.message-group .message .markup-2BOw-j a[href*="https://github.com/0mniscient"]:after, .markup-2BOw-j>a[href*="https://github.com/0mniscient"]:after{
+.message-group .message .markup-2BOw-j a[href*="https://github.com/0mniscient"]:after, 
+
+.markup-2BOw-j>a[href*="https://github.com/0mniscient"]:after,
+.markup-2BOw-j a[href^="https://google.co.za"]:after,
+
+{
   content: " " var(--sourcecheck-unsafe-link-icon) !important;
- }
+}
 
 /* Unsafe End */
 
