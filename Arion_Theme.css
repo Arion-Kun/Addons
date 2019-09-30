@@ -4,12 +4,17 @@
     --Chat-Background: url(https://cdn.discordapp.com/attachments/602239345453170710/621406713354125371/2852565-world-of-warcraft-night-elves___game-wallpapers.jpg)!important;
     --Popout-Background: url(https://cdn.discordapp.com/attachments/602239345453170710/621567957541322752/wcdachI_-_Copy.png)!important;
     /* Extra Stuff */ 
-    --Theme-Variant: " With love from";
-    --load1: "Arion";
-    --load2: "Sends";
-    --load3: "Love!";
+    --Update-Text: " Arion "
+    !important;
+    --Theme-Variant: " With love from"
+    !important;
+    --load1: "Arion"
+    !important;
+    --load2: "Sends"
+    !important;
+    --load3: "Love!"
+    !important;
   }
 /* Memberlist background */
 .theme-dark .members-1998pB{
     background:url(https://cdn.discordapp.com/attachments/602239345453170710/621419319389192213/ayyy.png) 50% 50%/cover!important;
-

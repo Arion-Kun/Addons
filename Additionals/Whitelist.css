@@ -1,0 +1,33 @@
+/* [Ari] Unsafe Links */
+.message-group .message .markup-2BOw-j a[href*="https://github.com/0mniscient"],
+.markup-2BOw-j>a[href*="https://github.com/0mniscient"],
+.markup-2BOw-j>a[href*="https://test.co.za"],
+
+{
+  color: var(--sourcecheck-unsafe) !important;
+}
+
+.message-group .message .markup-2BOw-j a[href*="https://github.com/0mniscient"]:after, 
+
+.markup-2BOw-j>a[href*="https://github.com/0mniscient"]:after,
+.markup-2BOw-j a[href^="https://test.co.za"]:after,
+
+{
+  content: " " var(--sourcecheck-unsafe-link-icon) !important;
+}
+
+/* Unsafe End */
+
+/* [Ari] Safe Links */
+.markup-2BOw-j a[href="https://github.com/Arion-Kun/Addons"]:after,
+.markup-2BOw-j>a[href="http://discord.gg/actjZAG"]:after
+{
+  content: " " var(--sourcecheck-official-link-icon) !important;
+}
+
+.markup-2BOw-j a[href="https://github.com/Arion-Kun/Addons"],
+.markup-2BOw-j>a[href="http://discord.gg/actjZAG"]
+{
+  color: var(--sourcecheck-official) !important;
+}
+/* Safe End */

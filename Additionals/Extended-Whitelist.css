@@ -1,0 +1,373 @@
+
+@import url("https://arion-kun.github.io/Addons/Additionals/vars.css");
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.betterdocs." i], 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="://betterdocs." i],
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.discordsource." i], 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="://discordsource." i],
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.betterdiscordlibrary.com/" i], 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://betterdiscordlibrary.com/" i],
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.betterdiscord.net/" i], 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://betterdiscord.net/" i],
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://www.betterdiscordlibrary.com/" i], 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://betterdiscordlibrary.com/" i],
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://www.betterdiscord.net/" i], 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://betterdiscord.net/" i] {
+    position: relative;
+}
+
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.betterdocs." i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="://betterdocs." i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.discordsource." i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="://discordsource." i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.betterdiscordlibrary.com/" i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://betterdiscordlibrary.com/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.betterdiscord.net/" i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://betterdiscord.net/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://www.betterdiscordlibrary.com/" i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://betterdiscordlibrary.com/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://www.betterdiscord.net/" i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://betterdiscord.net/" i]::after,
+ /* Additional By Arion#1223 */
+ html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.arion-kun.github.io/" i]::after,
+ html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://arion-kun.github.io/" i]::after,
+ /* Additional End          */
+{
+    position: relative !important;
+    top: 3px !important;
+    z-index:0;
+    margin: 0 !important;
+    left: 2px !important;
+}
+
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.discordsource." i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="://discordsource." i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.betterdocs." i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href*="://betterdocs." i]::after
+{
+    content: var(--sourcecheck-unsafe-link-icon) !important;
+}
+
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.betterdiscordlibrary.com/" i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://betterdiscordlibrary.com/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://www.betterdiscordlibrary.com/" i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://betterdiscordlibrary.com/" i]::after,
+/* Additional By Arion#1223 */
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://arion-kun.github.io/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://arion-kun.github.io/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.arion-kun.github.io/" i]::after,
+/* Additional End          */
+{
+    content: var(--sourcecheck-trusted-link-icon) !important;
+}
+
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.betterdiscord.net/" i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://betterdiscord.net/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://www.betterdiscord.net/" i]::after, 
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://betterdiscord.net/" i]::after{
+    content: var(--sourcecheck-official-link-icon) !important;
+}
+
+.embedLink-1G1K1D[href*="://betterdocs." i],
+.container-1YxwTf .markup-2BOw-j a[href*="://betterdocs." i],
+.embedLink-1G1K1D[href*="://discordsource." i],
+.container-1YxwTf .markup-2BOw-j a[href*="://discordsource." i],
+.embedLink-1G1K1D[href^="https://www.betterdiscordlibrary.com/" i],
+.embedLink-1G1K1D[href^="https://betterdiscordlibrary.com/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://betterdiscordlibrary.com/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://www.betterdiscordlibrary.com/" i],
+.embedLink-1G1K1D[href^="http://www.betterdiscordlibrary.com/" i],
+.embedLink-1G1K1D[href^="http://betterdiscordlibrary.com/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="http://betterdiscordlibrary.com/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="http://www.betterdiscordlibrary.com/" i],
+.embedLink-1G1K1D[href^="https://www.betterdiscord.net/" i],
+.embedLink-1G1K1D[href^="https://betterdiscord.net/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://betterdiscord.net/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://www.betterdiscord.net/" i],
+.embedLink-1G1K1D[href^="http://www.betterdiscord.net/" i],
+.embedLink-1G1K1D[href^="http://betterdiscord.net/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="http://betterdiscord.net" i],
+.container-1YxwTf .markup-2BOw-j a[href^="http://www.betterdiscord.net/" i],
+/* Additional By Arion#1223 */
+.embedLink-1G1K1D[href^="https://www.arion-kun.github.io/" i],
+.embedLink-1G1K1D[href^="https://arion-kun.github.io/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://www.arion-kun.github.io/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://arion-kun.github.io/" i],
+/* Additional End          */ 
+{
+    font-weight: 600;
+}
+
+
+html body #app-mount .embedLink-1G1K1D[href*="://betterdocs." i],
+html body #app-mount .container-1YxwTf .markup-2BOw-j .anchor-3Z-8Bb:not(.channelLink-2TxEu3):not(.guildsError-3cFMtY):not(.guildsError-b7zR5H):not(.embedAuthorName-3mnTWj):not(.downloadButton-1bWXpg):not(.downloadLink-1ywL9o)[href*="://betterdocs." i],
+html body #app-mount .embedLink-1G1K1D[href*="://discordsource." i],
+html body #app-mount .container-1YxwTf .markup-2BOw-j .anchor-3Z-8Bb:not(.channelLink-2TxEu3):not(.guildsError-3cFMtY):not(.guildsError-b7zR5H):not(.embedAuthorName-3mnTWj):not(.downloadButton-1bWXpg):not(.downloadLink-1ywL9o)[href*="://discordsource." i] {
+    color: var(--sourcecheck-unsafe) !important;
+    pointer-events: none;
+}
+
+.embedLink-1G1K1D[href^="https://www.betterdiscordlibrary.com/" i],
+.embedLink-1G1K1D[href^="https://betterdiscordlibrary.com/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://betterdiscordlibrary.com/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://www.betterdiscordlibrary.com/" i],
+.embedLink-1G1K1D[href^="http://www.betterdiscordlibrary.com/" i],
+.embedLink-1G1K1D[href^="http://betterdiscordlibrary.com/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="http://betterdiscordlibrary.com/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="http://www.betterdiscordlibrary.com/" i],
+/* Additional By Arion#1223 */
+.embedLink-1G1K1D[href^="https://www.arion-kun.github.io/" i],
+.embedLink-1G1K1D[href^="https://arion-kun.github.io/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://arion-kun.github.io/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://www.arion-kun.github.io/" i],
+.embedLink-1G1K1D[href^="http://www.betterdiscordlibrary.com/" i],
+.embedLink-1G1K1D[href^="http://betterdiscordlibrary.com/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://arion-kun.github.io/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://www.arion-kun.github.io/" i],
+/* Additional End          */
+{
+    color: var(--sourcecheck-trusted) !important;
+}
+
+.embedLink-1G1K1D[href^="https://www.betterdiscord.net/" i],
+.embedLink-1G1K1D[href^="https://betterdiscord.net/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://betterdiscord.net/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://www.betterdiscord.net/" i],
+.embedLink-1G1K1D[href^="http://www.betterdiscord.net/" i],
+.embedLink-1G1K1D[href^="http://betterdiscord.net/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="http://betterdiscord.net" i],
+.container-1YxwTf .markup-2BOw-j a[href^="http://www.betterdiscord.net/" i]{
+    color: var(--sourcecheck-official) !important;
+}
+
+.embedLink-1G1K1D[href*="://betterdocs." i]::selection,
+.container-1YxwTf .markup-2BOw-j a[href*="://betterdocs." i]::selection,
+.embedLink-1G1K1D[href*="://betterdocs." i],
+.container-1YxwTf .markup-2BOw-j a[href*="://betterdocs." i],
+.embedLink-1G1K1D[href*="://discordsource." i]::selection,
+.container-1YxwTf .markup-2BOw-j a[href*="://discordsource." i]::selection,
+.embedLink-1G1K1D[href*="://discordsource." i],
+.container-1YxwTf .markup-2BOw-j a[href*="://discordsource." i]{
+    background-color: transparent !important;
+}
+
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.discordsource." i]::before,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="://discordsource." i]::before,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdocs." i]::before,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="://betterdocs." i]::before {
+    z-index: 2 !important;
+    border: 2px solid!important;
+    padding: 10px!important;
+    font-size: 14px !important;
+    padding-right: 100px!important;
+    margin: 0 !important;
+    border-radius: 3px !important;
+    text-align: justify !important;
+    position: absolute !important;
+    font-weight:500 !important;
+    box-sizing: border-box !important;
+    white-space: pre-wrap !important;
+    overflow: hidden !important;
+    letter-spacing: 0 !important;
+    align-content: center !important;
+    align-items: center !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    top: 0 !important;
+    right: 0 !important;
+    pointer-events: none !important;
+    cursor: not-allowed !important;
+    display: flex !important;
+    height: 100% !important;
+    width: 100% !important;
+    content: "BetterDocs/DiscordSource is not an official source, and should be treated as such. The owner posts peoples' themes and plugins without their permission, and also hosts content that would not be found on the official BetterDiscord repos. This means it probably hosts harmful plugins that could either get you into trouble with discord, or steal user account info. Please stay safe, and download from official sources only."!important;
+}
+
+html body #app-mount .theme-dark .embed-IeVjo6 .embedLink-1G1K1D[href*="www.discordsource." i]::before,
+html body #app-mount .theme-dark .embed-IeVjo6 .embedLink-1G1K1D[href*="://discordsource." i]::before,
+html body #app-mount .theme-dark .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdocs." i]::before,
+html body #app-mount .theme-dark .embed-IeVjo6 .embedLink-1G1K1D[href*="://betterdocs." i]::before {
+    color: var(--sourcecheck-unsafe-embed-fg-dark)!important;
+    border-color: var(--sourcecheck-unsafe)!important;
+    background: var(--sourcecheck-unsafe-embed-bg-dark) var(--sourcecheck-unsafe-embed-logo-dark) 100% 20%/100px no-repeat!important;
+    box-shadow:0 0 12px var(--sourcecheck-unsafe-shadow-tint-dark), 0 0 12px var(--sourcecheck-unsafe-shadow)!important;
+}
+
+html body #app-mount .theme-light .embed-IeVjo6 .embedLink-1G1K1D[href*="www.discordsource." i]::before,
+html body #app-mount .theme-light .embed-IeVjo6 .embedLink-1G1K1D[href*="://discordsource." i]::before,
+html body #app-mount .theme-light .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdocs." i]::before,
+html body #app-mount .theme-light .embed-IeVjo6 .embedLink-1G1K1D[href*="://betterdocs." i]::before {
+    color: var(--sourcecheck-unsafe-embed-fg-light)!important;
+    border-color: var(--sourcecheck-unsafe)!important;
+    background: var(--sourcecheck-unsafe-embed-bg-light) var(--sourcecheck-unsafe-embed-logo-light) 100% 20%/100px no-repeat!important;
+    box-shadow:0 0 12px var(--sourcecheck-unsafe-shadow-tint-light), 0 0 12px var(--sourcecheck-unsafe-shadow)!important;
+}
+
+html body #app-mount .embed-IeVjo6 .embedThumbnail-2Y84-K[href*="www.discordsource." i],
+html body #app-mount .embed-IeVjo6 .embedThumbnail-2Y84-K[href*="://discordsource." i],
+html body #app-mount .embed-IeVjo6 .embedThumbnail-2Y84-K[href*="www.betterdocs." i],
+html body #app-mount .embed-IeVjo6 .embedThumbnail-2Y84-K[href*="://betterdocs." i] {
+    display: block!important;
+    margin: 0!important;
+    visibility: hidden!important;
+    position: static!important;
+}
+
+html[lang] html body #app-mount .embed-IeVjo6 .embedThumbnail-2Y84-K[href*="www.discordsource." i],
+html[lang] body #app-mount .embed-IeVjo6 .embedThumbnail-2Y84-K[href*="://discordsource." i],
+html[lang] body #app-mount .embed-IeVjo6 .embedThumbnail-2Y84-K[href*="www.betterdocs." i],
+html[lang] body #app-mount .embed-IeVjo6 .embedThumbnail-2Y84-K[href*="://betterdocs." i] {
+    z-index: auto!important
+}
+
+html body #app-mount .embed-IeVjo6 .embedThumbnail-2Y84-K[href*="www.discordsource." i]::after,
+html body #app-mount .embed-IeVjo6 .embedThumbnail-2Y84-K[href*="://discordsource." i]::after,
+html body #app-mount .embed-IeVjo6 .embedThumbnail-2Y84-K[href*="www.betterdocs." i]::after,
+html body #app-mount .embed-IeVjo6 .embedThumbnail-2Y84-K[href*="://betterdocs." i]::after {
+    overflow: hidden!important;
+    visibility: visible!important;
+    position: absolute!important;
+    opacity: .1;
+    content: '';
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='30' width='30'%3E%3Ctext x='-18' y='27' fill='%23777' font-size='14' transform='rotate(-45)'%3EVOID%3C/text%3E%3C/svg%3E");
+    background-repeat: repeat;
+    pointer-events: none;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.embedLink-1G1K1D[href*="://betterdocs." i],
+.embedLink-1G1K1D[href*="://discordsource." i]{
+    color: transparent !important;
+    height: 70px;
+}
+
+.embedLink-1G1K1D[href*="betterdocs.net/preview" i]:before,
+.embedLink-1G1K1D[href*="betterdocs.us/preview" i]:before,
+.embedLink-1G1K1D[href*="discordsource.com/preview" i]:before {
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    padding: 10px;
+    pointer-events: none!important;
+    cursor: not-allowed!important;
+    color: var(--sourcecheck-unsafe-embed-fg-dark);
+    background: var(--sourcecheck-unsafe-embed-bg-dark) var(--sourcecheck-unsafe-embed-logo-dark) top/30% no-repeat;
+    display: flex;
+    text-align: justify;
+    align-content: center;
+    align-items: center;
+    white-space: pre-wrap;
+    content: "BetterDocs and Discord Source are unsafe sources. The owner of said sources posts developers themes and plugins without proper permission, and profits off of their work. This site also contains content that would not be found on the official BetterDiscord content lists. This means it contains harmful plugins that could either get you into trouble with discord, or steal your user account info. This isn't the first time this has happened. Please stay safe and download from official sources only.";
+}
+
+.wrapper-35wsBm .icon-3o6xvg[style*="/icons/153708594091655168"]::after {
+    content: 'BetterDocs/Discord Source are untrusted sources of themes and plugins\a The creator posts content\a without permission and it may have harmful plugins.\a Do not use BetterDocs/Discord Source.';
+    color: var(--sourcecheck-unsafe-embed-fg-dark);
+    background: var(--sourcecheck-unsafe-embed-bg-dark) var(--sourcecheck-unsafe-embed-logo-dark) left/auto 100% no-repeat;
+    border: 2px solid var(--sourcecheck-unsafe);
+    box-shadow:0 0 12px var(--sourcecheck-unsafe-shadow-tint-dark), 0 0 12px var(--sourcecheck-unsafe-shadow);
+    padding: 10px 7px 10px 100px;
+    top: -35px;
+    left: -18px;
+    border-radius: 5px !important;
+    position: absolute;
+    font-weight: bold;
+    letter-spacing: 0;
+    text-align: justify;
+    font-size: 100%;
+    width: 300px;
+    height: fit-content;
+    z-index: 1;
+    pointer-events:none;
+}
+
+.markup-2BOw-j .anchor-3Z-8Bb[href="https://discordapp.com/invite/D4cAkXX" i] {
+    pointer-events: none !important;
+    font-size:0;
+}
+
+html body #app-mount .markup-2BOw-j .anchor-3Z-8Bb[href*="discordapp.com/invite/D4cAkXX" i]::after {
+    content: 'SourceCheck Has Blocked an Invite'!important;
+    color: var(--sourcecheck-unsafe) !important;
+    font-weight: 700!important;
+    font-size:15px!important;
+}
+
+html body #app-mount .guildIcon-VlWW86[style*='/icons/153708594091655168'] {
+    background-image: var(--sourcecheck-unsafe-server-icon) !important;
+}
+
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D::after {
+    background-repeat: no-repeat !important;
+    border-radius: 0 5px !important;
+    color:var(--sourcecheck-unsafe-embed-badge-fg) !important;
+    font-size: 12px !important;
+    font-weight: 400 !important;
+    line-height: 1.3 !important;
+    padding: 1px 4px 1px 18px !important;
+    pointer-events: none !important;
+    position: absolute !important;
+    right: 0 !important;
+    top: 0 !important;
+    z-index: 3 !important;
+}
+
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="https://www.betterdiscord.net/" i]::after,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="https://betterdiscord.net/" i]::after,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="https://www.betterdiscordlibrary.com/" i]::after,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="https://betterdiscordlibrary.com/" i]::after,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://www.betterdiscord.net/" i]::after,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://betterdiscord.net/" i]::after,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://www.betterdiscordlibrary.com/" i]::after,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://betterdiscordlibrary.com/" i]::after,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://betterdiscordlibrary.com/" i]::after,
+  /* Additional By Arion#1223 */
+  html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="https://www.arion-kun.github.io/" i]::after,
+  html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="https://arion-kun.github.io/" i]::after,
+  html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://arion-kun.github.io/" i]::after,
+  html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://www.arion-kun.github.io/" i]::after,
+ /* Additional End          */
+{
+    background-position: 2px !important;
+    background-size: 15% !important;
+}
+
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="https://www.betterdiscord.net/" i]::after,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="https://betterdiscord.net/" i]::after,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://www.betterdiscord.net/" i]::after,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://betterdiscord.net/" i]::after {
+    content: "Official Source" !important;
+    background-color: var(--sourcecheck-official) !important;
+    background-image: var(--sourcecheck-official-embed-icon) !important;
+}
+
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="https://www.betterdiscordlibrary.com/" i]::after,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="https://betterdiscordlibrary.com/" i]::after,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://www.betterdiscordlibrary.com/" i]::after,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://betterdiscordlibrary.com/" i]::after,
+ /* Additional By Arion#1223 */
+
+ html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="https://www.arion-kun.github.io/" i]::after,
+ html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="https://arion-kun.github.io/" i]::after,
+ html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://arion-kun.github.io/" i]::after,
+ html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://www.arion-kun.github.io/" i]::after,
+/* Additional End          */
+{
+    content: "Trusted Source" !important;
+    background-color: var(--sourcecheck-trusted) !important;
+    background-image: var(--sourcecheck-trusted-embed-icon) !important;
+}
+
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.discordsource." i]::after,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="://discordsource." i]::after,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="www.betterdocs." i]::after,
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href*="://betterdocs." i]::after{
+    content: "Unsafe Source" !important;
+    background-color: var(--sourcecheck-unsafe) !important;
+    background-image: var(--sourcecheck-unsafe-embed-icon) !important;
+    background-position: 3px !important;
+    background-size: 14% !important;
+}
