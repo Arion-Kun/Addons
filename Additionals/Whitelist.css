@@ -1,6 +1,7 @@
 /* [Ari] Unsafe Links */
 .message-group .message .markup-2BOw-j a[href*="https://github.com/0mniscient"],
 .markup-2BOw-j>a[href*="https://github.com/0mniscient"],
+.message-group .message .markup-2BOw-j a[href*="https://test.co.za"],
 .markup-2BOw-j>a[href*="https://test.co.za"],
 
 {
@@ -10,6 +11,7 @@
 .message-group .message .markup-2BOw-j a[href*="https://github.com/0mniscient"]:after, 
 
 .markup-2BOw-j>a[href*="https://github.com/0mniscient"]:after,
+.message-group .message .markup-2BOw-j a[href*="https://test.co.za"]:after,
 .markup-2BOw-j a[href^="https://test.co.za"]:after,
 
 {
@@ -20,12 +22,14 @@
 
 /* [Ari] Safe Links */
 .markup-2BOw-j a[href="https://github.com/Arion-Kun/Addons"]:after,
+.markup-2BOw-j a[href="https://steamcommunity.com/id/Arion_Kun/"]:after,
 .markup-2BOw-j>a[href="http://discord.gg/actjZAG"]:after
 {
   content: " " var(--sourcecheck-official-link-icon) !important;
 }
 
 .markup-2BOw-j a[href="https://github.com/Arion-Kun/Addons"],
+.markup-2BOw-j a[href="https://steamcommunity.com/id/Arion_Kun/"],
 .markup-2BOw-j>a[href="http://discord.gg/actjZAG"]
 {
   color: var(--sourcecheck-official) !important;

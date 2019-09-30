@@ -119,10 +119,23 @@ html body #app-mount .container-1YxwTf .markup-2BOw-j .anchor-3Z-8Bb:not(.channe
 .embedLink-1G1K1D[href^="https://github.com/Arion-Kun/Addons" i],
 .container-1YxwTf .markup-2BOw-j a[href^="https://github.com/Arion-Kun/Addons" i],
 .container-1YxwTf .markup-2BOw-j a[href^="https://www.github.com/Arion-Kun/Addons" i],
-.embedLink-1G1K1D[href^="http://www.betterdiscordlibrary.com/" i],
-.embedLink-1G1K1D[href^="http://betterdiscordlibrary.com/" i],
 .container-1YxwTf .markup-2BOw-j a[href^="https://github.com/Arion-Kun/Addons" i],
 .container-1YxwTf .markup-2BOw-j a[href^="https://www.github.com/Arion-Kun/Addons" i],
+/* Arion Steam ID */
+.embedLink-1G1K1D[href^="https://www.steamcommunity.com/profiles/76561193754754172" i],
+.embedLink-1G1K1D[href^="https://steamcommunity.com/profiles/76561193754754172" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://steamcommunity.com/profiles/76561193754754172" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://www.steamcommunity.com/profiles/76561193754754172" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://steamcommunity.com/profiles/76561193754754172" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://www.steamcommunity.com/profiles/76561193754754172" i],
+
+/* Arion_Kun Steam */
+.embedLink-1G1K1D[href^="https://www.steamcommunity.com/id/Arion_Kun/" i],
+.embedLink-1G1K1D[href^="https://steamcommunity.com/id/Arion_Kun/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://steamcommunity.com/id/Arion_Kun/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://www.steamcommunity.com/id/Arion_Kun/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://steamcommunity.com/id/Arion_Kun/" i],
+.container-1YxwTf .markup-2BOw-j a[href^="https://www.steamcommunity.com/id/Arion_Kun/" i],
 /* Additional End          */
 {
     color: var(--sourcecheck-trusted) !important;
