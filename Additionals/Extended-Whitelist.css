@@ -27,13 +27,15 @@ html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="ht
 html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://betterdiscordlibrary.com/" i]::after,
 html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://www.betterdiscord.net/" i]::after, 
 html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://betterdiscord.net/" i]::after,
- /* Additional By Arion#1223 */
- html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.github.com/Arion-Kun/Addons" i]::after,
- html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://github.com/Arion-Kun/Addons" i]::after,
- html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.steamcommunity.com/profiles/76561193754754172" i]::after,
- html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://steamcommunity.com/profiles/76561193754754172" i]::after,
- html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.steamcommunity.com/id/Arion_Kun/" i]::after,
- html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://steamcommunity.com/id/Arion_Kun/" i]::after,
+/* Additional By Arion#1223 */
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.github.com/Arion-Kun/Addons" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://github.com/Arion-Kun/Addons" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.steamcommunity.com/profiles/76561193754754172" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://steamcommunity.com/profiles/76561193754754172" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.steamcommunity.com/id/Arion_Kun/" i]::after,
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://steamcommunity.com/id/Arion_Kun/" i]::after,
+
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://discord.gg/actjZAG" i]::after,
  /* Additional End          */
 {
     position: relative !important;
@@ -72,7 +74,11 @@ html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="ht
 html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://www.betterdiscord.net/" i]::after, 
 html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="https://betterdiscord.net/" i]::after,
 html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://www.betterdiscord.net/" i]::after, 
-html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://betterdiscord.net/" i]::after{
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://betterdiscord.net/" i]::after,
+/* Additional By Arion#1223 */
+html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="http://discord.gg/actjZAG" i]::after,
+/* Additional End         */
+{
     content: var(--sourcecheck-official-link-icon) !important;
 }
 
@@ -111,6 +117,10 @@ html body #app-mount .container-1YxwTf .markup-2BOw-j > .anchor-3Z-8Bb[href^="ht
 .embedLink-1G1K1D[href^="https://steamcommunity.com/profiles/76561193754754172" i],
 .container-1YxwTf .markup-2BOw-j a[href^="https://steamcommunity.com/profiles/76561193754754172" i],
 .container-1YxwTf .markup-2BOw-j a[href^="https://www.steamcommunity.com/profiles/76561193754754172" i],
+
+.embedLink-1G1K1D[href^="http://discord.gg/actjZAG" i], /* My Discord */
+.container-1YxwTf .markup-2BOw-j a[href^="http://discord.gg/actjZAG" i],
+
 /* Additional End          */ 
 {
     font-weight: 600;
@@ -155,6 +165,7 @@ html body #app-mount .container-1YxwTf .markup-2BOw-j .anchor-3Z-8Bb:not(.channe
 .container-1YxwTf .markup-2BOw-j a[href^="https://www.steamcommunity.com/id/Arion_Kun/" i],
 .container-1YxwTf .markup-2BOw-j a[href^="https://steamcommunity.com/id/Arion_Kun/" i],
 .container-1YxwTf .markup-2BOw-j a[href^="https://www.steamcommunity.com/id/Arion_Kun/" i],
+
 /* Additional End          */
 {
     color: var(--sourcecheck-trusted) !important;
@@ -167,7 +178,11 @@ html body #app-mount .container-1YxwTf .markup-2BOw-j .anchor-3Z-8Bb:not(.channe
 .embedLink-1G1K1D[href^="http://www.betterdiscord.net/" i],
 .embedLink-1G1K1D[href^="http://betterdiscord.net/" i],
 .container-1YxwTf .markup-2BOw-j a[href^="http://betterdiscord.net" i],
-.container-1YxwTf .markup-2BOw-j a[href^="http://www.betterdiscord.net/" i]{
+.container-1YxwTf .markup-2BOw-j a[href^="http://www.betterdiscord.net/" i],
+
+.embedLink-1G1K1D[href^="http://discord.gg/actjZAG" i],
+.container-1YxwTf .markup-2BOw-j a[href^="http://discord.gg/actjZAG" i],
+{
     color: var(--sourcecheck-official) !important;
 }
 
@@ -371,6 +386,9 @@ html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://steamcommunit
 html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://www.steamcommunity.com/id/Arion_Kun/" i]::after,
 html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="https://www.steamcommunity.com/id/Arion_Kun/" i]::after,
 html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="https://steamcommunity.com/id/Arion_Kun/" i]::after,
+
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://discord.gg/actjZAG" i]::after,
+
 /* Additional End          */
 {
     background-position: 2px !important;
@@ -380,7 +398,10 @@ html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="https://steamcommuni
 html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="https://www.betterdiscord.net/" i]::after,
 html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="https://betterdiscord.net/" i]::after,
 html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://www.betterdiscord.net/" i]::after,
-html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://betterdiscord.net/" i]::after {
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://betterdiscord.net/" i]::after,
+
+html body #app-mount .embed-IeVjo6 .embedLink-1G1K1D[href^="http://discord.gg/actjZAG" i]::after, /* My Discord */
+{
     content: "Official Source" !important;
     background-color: var(--sourcecheck-official) !important;
     background-image: var(--sourcecheck-official-embed-icon) !important;
