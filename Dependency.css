@@ -10880,9 +10880,9 @@ html .upperBadge-2XnnGB.count {
 .keyboardShortcutList-13cQ-8 .keybindGroup--6Qp-w.groupEnd-1cdweh {
   margin-bottom: 0;
 }
-
+/* Arion - DM Pin Notification Icon Color */ 
 .iconBadge-qZ4Ksk{
-  background-color: var(--Main-Colour);
+  background-color: rgb(255, 0, 0);
 }
 
 .theme-dark .closeButton-17RIVZ {

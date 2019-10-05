@@ -1,8 +1,13 @@
 @import url(https://arion-kun.github.io/Addons/MainTheme.css);
 
 :root {
-    --Chat-Background: url(https://cdn.discordapp.com/attachments/602239345453170710/621406713354125371/2852565-world-of-warcraft-night-elves___game-wallpapers.jpg)!important;
-    --Popout-Background: url(https://cdn.discordapp.com/attachments/602239345453170710/621567957541322752/wcdachI_-_Copy.png)!important;
+    --Main-Colour: rgba(124, 185, 232, 1);
+    --Background-Colour: rgba(0, 0, 0, 0.8);
+    --Secondary-Background-Colour: rgba(0,0,0, .2);
+    --Secondary-Main-Colour: rgba(137, 207, 240, 0.9);
+  
+    --Chat-Background: url(https://arion-kun.github.io/Addons/Assets/Images/Chat-Background.jpg)!important;
+    --Popout-Background: url(https://arion-kun.github.io/Addons/Assets/Images/Popout-Background.png)!important;
     /* Extra Stuff */ 
     --Update-Text: " Arion "
     !important;
@@ -15,6 +20,11 @@
     --load3: "Love!"
     !important;
   }
-/* Memberlist background */
+/* Memberslist background */
 .theme-dark .members-1998pB{
-    background:url(https://cdn.discordapp.com/attachments/602239345453170710/621419319389192213/ayyy.png) 50% 50%/cover!important;
+    background:url(https://arion-kun.github.io/Addons/Assets/Images/Memberslist-Background.png) 50% 50%/cover!important;
+}
+/* DMs - Pinned Message Circle */
+.iconBadge-qZ4Ksk{
+  background-color: rgb(255, 0, 0)!important;
+}
