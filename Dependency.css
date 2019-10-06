@@ -11151,7 +11151,7 @@ html .upperBadge-2XnnGB.count {
   color: var(--Main-Colour);
   font-size: 0;
 }
-
+/*
 .theme-dark .tierNoneText-2OvCv7:after {
   color: var(--Main-Colour);
   font-size: 16px;
@@ -11159,7 +11159,7 @@ html .upperBadge-2XnnGB.count {
   text-transform: none;
   content: "Consider boosting the support server, \a \a \a \a https://nfld99.com/discord"
 }
-
+*/
 .theme-dark .tierHeaderLocked-1s2JJz,.theme-dark .tierBody-16Chc9 {
   background-color: var(--Secondary-Background-Colour);
   color: var(--Secondary-Main-Colour);
