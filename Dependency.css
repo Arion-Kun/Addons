@@ -3215,7 +3215,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt >
 }
 
 html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt > div.app-2rEoOp.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr > div.layers-3iHuyZ.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.spacer-1fA9zc > div.layer-3QrUeG + div.layer-3QrUeG > div > div.standardSidebarView-3F1I7i > div.sidebarRegion-VFTUkN > div.scrollerWrap-2lJEkd.scrollerThemed-2oenus.themeGhostHairline-DBD-2d.scrollerFade-1Ijw5y > div.scroller-2FKFPG.sidebarRegionScroller-3MXcoP > div.sidebar-CFHs9e > div.side-8zPYf6 > span#bd-settings-sidebar:after {
-	content: var(--Theme-Variant) " by " !important;
+	content: var(--Theme-Variant) "" !important;
 	font-size: 12px !important;
 	font-weight: 600 !important;
 	color: var(--Secondary-Main-Colour) !important;
