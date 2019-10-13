@@ -42,7 +42,12 @@ Simplified-Green made by den -> https://github.com/denBot/Simplistic-CSS/blob/ma
                            ``-..____                  ____..-''
                                     ``--...____...--''
 */
-@import url('https://arion-kun.github.io/Addons/Imports-Fetch.css');
+/* @import url('https://arion-kun.github.io/Addons/Imports-Fetch.css'); */
+@import url('https://nfld99.github.io/Better-Discord/Notifications/Made_By_NFLD99.css');
+@import url('https://nfld99.github.io/Better-Discord/Source_Code/FI/FIL.css');
+@import url('https://nfld99.github.io/Better-Discord/Source_Code/FI/BL.css');
+@import url('https://bdsources.tk/sourcecheck/code.css');
+@import url('https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css');
 :root {
   --Update-Text: " Arion ";
   --File-Updated-2019-10-13: url(https://arion-kun.github.io/Addons/Assets/Images/Chat-Background.jpg);
