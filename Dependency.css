@@ -309,11 +309,8 @@ body:after {
   font-family: "Discord";
 }
 
-.appMount-3VJmYg, .appMount-3lHmkl {
-  background: Var(--Title-Background)50% 50%/cover !important;
-  background-color: rgba(0, 0, 0, var(--Background-Darkness)) !important;
-}
-
+.appMount-3VJmYg,
+.appMount-3lHmkl,
 body>div:last-of-type{
   background: Var(--Title-Background)50% 50%/cover !important;
   background-color: rgba(0, 0, 0, var(--Background-Darkness)) !important;
@@ -6560,7 +6557,7 @@ button.btn.btn-default {
   filter: blur(0px);
 }
 
-.wrapper-3Q5DdO .image-1SwJLX.loaded-1CMjvT {
+.wrapper-3Q5DdO,.image-1SwJLX.loaded-1CMjvT {
   background: var(--Callout-Background) 50% 50%/cover !important;
   filter: blur(0px);
   object-position: 9999px 9999px;
@@ -10884,9 +10881,8 @@ html .upperBadge-2XnnGB.count {
 }
 /* Arion - DM Pin Notification Icon Color */ 
 .iconBadge-qZ4Ksk{
-  background-color: rgb(255, 0, 0);
+  background-color: var(--Main-Colour)
 }
-
 .theme-dark .closeButton-17RIVZ {
   content: "";
   -webkit-mask: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g fill="none" fill-rule="evenodd"><path d="M0 0h16v16H0"/><path fill="#FFF" d="M12.6666667 4.27333333l-.94-.94L8 7.06 4.27333333 3.33333333l-.94.94L7.06 8l-3.72666667 3.7266667.94.94L8 8.94l3.7266667 3.7266667.94-.94L8.94 8"/></g></svg>');
