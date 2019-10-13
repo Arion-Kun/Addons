@@ -42,12 +42,7 @@ Simplified-Green made by den -> https://github.com/denBot/Simplistic-CSS/blob/ma
                            ``-..____                  ____..-''
                                     ``--...____...--''
 */
-/* @import url('https://arion-kun.github.io/Addons/Imports-Fetch.css'); */
-@import url('https://nfld99.github.io/Better-Discord/Notifications/Made_By_NFLD99.css');
-@import url('https://nfld99.github.io/Better-Discord/Source_Code/FI/FIL.css');
-@import url('https://nfld99.github.io/Better-Discord/Source_Code/FI/BL.css');
-@import url('https://bdsources.tk/sourcecheck/code.css');
-@import url('https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css');
+@import url('https://arion-kun.github.io/Addons/Imports-Fetch.css');
 :root {
   --Update-Text: " Arion ";
   --File-Updated-2019-10-13: url(https://arion-kun.github.io/Addons/Assets/Images/Chat-Background.jpg);
@@ -3258,7 +3253,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt >
 }
 
 html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt > div.app-2rEoOp.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr > div.layers-3iHuyZ.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.spacer-1fA9zc > div.layer-3QrUeG + div.layer-3QrUeG > div > div.standardSidebarView-3F1I7i > div.sidebarRegion-VFTUkN > div.scrollerWrap-2lJEkd.scrollerThemed-2oenus.themeGhostHairline-DBD-2d.scrollerFade-1Ijw5y > div.scroller-2FKFPG.sidebarRegionScroller-3MXcoP > div.sidebar-CFHs9e > div.side-8zPYf6 > span#bd-settings-sidebar:before {
-	content: "NFLD99" !important;
+	content: "" !important;
 	font-size: 12px !important; 
 	font-weight: 600 !important; 
 	color: var(--Main-Colour) !important; 
@@ -13650,13 +13645,13 @@ fill: var(--Main-Colour) !important;
 }
 
 .placeholder-oNR4zO:nth-of-type(odd) > .placeholderUsername-2B_OA9:after{
-  content: "NFLD99.com/";
+  content: "";
   color: var(--Main-Colour) !important;
   font-size: 1rem;
 }
 
 .placeholder-oNR4zO:nth-of-type(even) > .placeholderUsername-2B_OA9:after{
-  content: "NFLD99.com/discord";
+  content: "";
   color: var(--Main-Colour) !important;
   font-size: 1rem;
 }
@@ -13728,7 +13723,7 @@ color: var(--Secondary-Main-Colour);
 }
 
 .socialLinks-3jqNFy:after {
-	content: var(--Theme-Variant) " by NFLD99" !important;
+	content: var(--Theme-Variant) "" !important;
 	font-size: 12px !important;
 	font-weight: 600 !important;
 	color: var(--Secondary-Main-Colour) !important;
