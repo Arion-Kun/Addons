@@ -1,10 +1,5 @@
-META{"name":
-    "Discord - Windows Watermark Removal", 
-    "description":"Removes the watermark of Discord at the top of a Discord window." 
-    "author":"Arion",
-    "version":"1.0"}
-
-@import url("@import url('https://arion-kun.github.io/Addons/Additionals/Watermark.css');");
+//META{"name":"Watermark Removal","description": "Removes the watermark of Discord at the top of a Discord window","author":"Arion","version":"1.0"}*//
+@import url('https://arion-kun.github.io/Addons/Additionals/Watermark.css');
 
 
 /* Modified & Preserved By Arion#1223 */
