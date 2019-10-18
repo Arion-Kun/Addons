@@ -1,0 +1,12 @@
+//META{"name":"Horizontal Serverlist","author":"Arion","version":"1.0"}*//
+
+@import url("@import url('https://arion-kun.github.io/Addons/Additionals/HorizontalServerListBase.css');");
+
+:root {
+    --HSL-size: 35px; /* Size of Server Icons */
+    --HSL-spacing: 10px; /* Space between servers */
+    --HSL-roundness: 50%; /* Server non hovered and selected */
+    --HSL-roundnessHover: 20%; /* Server hovered */
+}
+
+/* Modified & Preserved By Arion#1223 */
