@@ -7,6 +7,7 @@
                                                                                              /*     --Personal Addons--          */
 @import url(https://arion-kun.github.io/Addons/Additionals/Watermark.css);                  /*  --Top Watermark Removal         */
 @import url(https://arion-kun.github.io/Addons/Dependencies/HorizontalServerListBase.css); /*   --Horizontal Serverlists       */
-@import url(https://arion-kun.github.io/Addons/Addons/statusRounded.css);           /*    --Round Status Icons          */
-@import url(https://arion-kun.github.io/Addons/Addons/compactChannelsList.css);    /*     --Compact Server Channels    */
-@import url(https://arion-kun.github.io/Addons/Addons/compactMembersList.css);    /*      --Compact Memberslist       */
+@import url(https://arion-kun.github.io/Addons/Addons/statusRounded.css);                 /*    --Round Status Icons          */
+@import url(https://arion-kun.github.io/Addons/Addons/compactChannelsList.css);          /*     --Compact Server Channels    */
+@import url(https://arion-kun.github.io/Addons/Addons/compactMembersList.css);          /*      --Compact Memberslist       */
+@import url(https://arion-kun.github.io/Addons/Additionals/Arion2.css);                /*      --Arion                     */
