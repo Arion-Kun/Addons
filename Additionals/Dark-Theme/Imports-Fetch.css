@@ -1,7 +1,13 @@
 @import url(https://arion-kun.github.io/Addons/Additionals/Dark-Theme/statusRounded.css);
 @import url(https://arion-kun.github.io/Addons/Additionals/Dark-Theme/hljs.css);
 @import url(https://arion-kun.github.io/Addons/Additionals/Dark-Theme/settingsIcons.css);
-@import url(https://arion-kun.github.io/Addons/Additionals/FIL.css);
-@import url(https://arion-kun.github.io/Addons/Additionals/Whitelist.css);
-@import url(https://arion-kun.github.io/Addons/Additionals/Extended-Whitelist.css);
+
+/* Personal Addon */
 @import url(https://arion-kun.github.io/Addons/Addons/Discord-Watermark-Removal.css);
+
+/* Old Package */
+@import url('https://arion-kun.github.io/Addons/Additionals/FIL.css');
+@import url('https://arion-kun.github.io/Addons/Additionals/Whitelist.css');
+@import url('https://bdsources.tk/sourcecheck/code.css');
+@import url('https://arion-kun.github.io/Addons/Additionals/Extended-Whitelist.css');
+@import url('https://arion-kun.github.io/Addons/Additionals/AdditionalsFinalImport.css');
