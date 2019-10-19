@@ -40,7 +40,7 @@ This theme is meant to be used with the dark version of discord
 
   /* Background image */
   --backgroundImage: url('https://arion-kun.github.io/Addons/Assets/Images/Chat-Background.jpg');
-  --backgroundImageOpacity: .75;
+  --backgroundImageOpacity: .45;
 
   /* Home button image */
   --homeButtonImage: url('https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/friends.png');
@@ -51,7 +51,7 @@ This theme is meant to be used with the dark version of discord
   /* Text Colors */
   --textNormal: #dcddde;
   --textMuted: #72767d;
-  --textLinks: Orange;
+  --textLinks: Blue;
   --channelsDefault: #e4e4e4;
   --channelsNormal: #d6d6d6;
   --channelsHover: #ebebeb;
@@ -62,8 +62,8 @@ This theme is meant to be used with the dark version of discord
   --customFont: 'Ubuntu';
 
   /* For The Horizontal Serverlist Settings */
-  --HSL-size: 25px;
-  --HSL-spacing: 10px;
+  --HSL-size: 30px;
+  --HSL-spacing: 15px;
   --HSL-roundness: 0%;
   --HSL-roundnessHover: 0%;}
 }
