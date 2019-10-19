@@ -1,0 +1,44 @@
+@import url(https://codedotspectra.github.io/themes/mini-themes/settingsIcons.css);
+.sidebar-CFHs9e .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:not(.role-3wi9Tf)::before,
+.side-8zPYf6 .item-PXvHYJ:not(.role-3wi9Tf)::before {
+    content: "";
+    width: 20px;
+    height: 20px;
+    background-size: cover!important;
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item, .side-8zPYf6 .item-PXvHYJ {padding-left: 40px;}
+div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item,
+div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 .item-PXvHYJ {padding-left: 10px;}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(2)::before {background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/account.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(3)::before {background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/privacy.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(4)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/apps.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(5)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/connections.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(6)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/billing.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/nitro.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(9)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/hype.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(12)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/voice.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(13)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/overlay.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(14)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/notifications.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(15)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/keybinds.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(16)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/games.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(17)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/activity_feed.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(18)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/gamepad.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(19)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/text.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(20)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/eye.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(21)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/twitch.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(22)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/language.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(23)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/windows.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(25)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/changelog.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(26)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/experiments.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(27)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/dev_options.png) center}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(3)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/core.png) center}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(4)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/bandages.png) center}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(5)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/emote.png) center}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(6)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/css.png) center}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(7)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/plugins.png) center}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(8)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/theme.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(30)::before{background:url(https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/logout.png) center}
