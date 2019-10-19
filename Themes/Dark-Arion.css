@@ -35,14 +35,29 @@ This theme is meant to be used with the dark version of discord
 @import url(https://arion-kun.github.io/Addons/Dependencies/Dark-Dependency.css);
 /*###################################################################################################*/
 :root {
-    --bg:                           url('https://arion-kun.github.io/Addons/Assets/Images/Chat-Background.jpg');
-    --lvl-bg-opacity:               0.3;
-    --lvl-bg-fade:                  80%;
-    --accent:                     #135193;--hover:#135193;--lv1: #000000;
-    --online:                     #43b581;
-    --idle:                       #faa61a;
-    --dnd:                        #f04747;
-    --offline:                    #636b75;
-    --invisible:                  #ced2d7;
-    --streaming:                  #643da7;
-    --BetterDocsBlockerBlack1:    var(--lv1);}
+  /* Background color */
+  --backgroundColor: #121212;
+
+  /* Background image */
+  --backgroundImage: url('https://arion-kun.github.io/Addons/Assets/Images/Chat-Background.jpg');
+  --backgroundImageOpacity: .75;
+
+  /* Home button image */
+  --homeButtonImage: url('https://img4.goodfon.com/original/1920x1080/0/80/materyi-volk-past-klyki-goriashchie-glaza-oboroten-tma-iazyk.jpg');
+
+  /* Theme Colors */
+  --uiGradient1: #0dbef4;
+  --uiGradient2: #121212;
+  /* Text Colors */
+  --textNormal: #dcddde;
+  --textMuted: #72767d;
+  --textLinks: Orange;
+  --channelsDefault: #e4e4e4;
+  --channelsNormal: #d6d6d6;
+  --channelsHover: #ebebeb;
+  --channelsActive: #fff;
+  --channelsMuted: #7d7d7d;
+
+  /* Theme custom font (You need to import the font file first)*/
+  --customFont: 'Ubuntu';
+}
