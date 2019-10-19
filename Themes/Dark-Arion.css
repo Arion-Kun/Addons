@@ -34,29 +34,10 @@ This theme is meant to be used with the dark version of discord
 ###################################################################################################*/
 @import url(https://arion-kun.github.io/Addons/Dependencies/Dark-Dependency.css);
 /*###################################################################################################*/
-
-:root{
-    --backgroundDark:           rgb(24, 28, 37);
-    --backgroundDarker:         rgb(20, 23, 31);
-    --backgroundImage:          url(https://arion-kun.github.io/Addons/Assets/Images/Chat-Background.jpg);
-    --backgroundsize:           cover;
-    --backgroundblur:           0px;
-    --backgroundImageOpacity:   0.4;
-    --primary:                #008ae6;
-    --primaryGradient1:       #008ae6;
-    --primaryGradient2:       #00e68a;
-    --DangerColor:            #dc3545;
-    --WarningColor:           #ffc107;
-    --SuccesColor:            #28a745;
-    --uiGradient1:            #ffffff;
-    --uiGradient2:            #ffffff;
-  
-    --backgdrop:            rgba(0,0,0,0.85);
-    --backdropsize:           var(--backgroundsize);
-    --backdropblur:           0px;
-
-    --HSL-size:             25px;           /* Size of Server Icons */
-    --HSL-spacing:          10px;           /* Space between servers */
-    --HSL-roundness:        50%;            /* Server non hovered and selected */
-    --HSL-roundnessHover:   20%;            /* Server hovered */
-  }
+:root {
+--bg: url('https://arion-kun.github.io/Addons/Assets/Images/Chat-Background.jpg');
+--lvl-bg-opacity: 0.3;
+--lvl-bg-fade: 80%;
+--accent:#135193;--hover:#135193;--lv1: #000000;
+--online:#43b581;--idle:#faa61a;--dnd:#f04747;--offline:#636b75;--invisible: #ced2d7;
+--streaming:#643da7;--BetterDocsBlockerBlack1:var(--lv1);}

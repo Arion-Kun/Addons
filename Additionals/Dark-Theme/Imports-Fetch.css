@@ -1,3 +1,5 @@
+
+@import url(https://tropix126.github.io/BetterDiscordStuff/midnight/css/base.css);
 @import url(https://arion-kun.github.io/Addons/Additionals/Dark-Theme/statusRounded.css);
 @import url(https://arion-kun.github.io/Addons/Additionals/Dark-Theme/hljs.css);
 @import url(https://arion-kun.github.io/Addons/Additionals/Dark-Theme/settingsIcons.css);
@@ -5,3 +7,6 @@
 /* Personal Addon */
 @import url(https://arion-kun.github.io/Addons/Addons/Discord-Watermark-Removal.css);
 @import url(https://arion-kun.github.io/Addons/Dependencies/HorizontalServerListBase.css);
+@import url(https://arion-kun.github.io/Addons/Dependencies/statusRounded.css);
+@import url(https://arion-kun.github.io/Addons/Dependencies/compactChannelsList.css);
+@import url(https://arion-kun.github.io/Addons/Dependencies/compactMembersList.css);
