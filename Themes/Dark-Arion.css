@@ -60,4 +60,10 @@ This theme is meant to be used with the dark version of discord
 
   /* Theme custom font (You need to import the font file first)*/
   --customFont: 'Ubuntu';
+
+  /* For The Horizontal Serverlist Settings */
+  --HSL-size: 25px;
+  --HSL-spacing: 10px;
+  --HSL-roundness: 0%;
+  --HSL-roundnessHover: 0%;}
 }
