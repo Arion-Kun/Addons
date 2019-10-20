@@ -231,6 +231,9 @@
 	background-clip: border-box;
 	background-repeat: no-repeat;
   }
+
+.childWrapper-anI2G9 {background-color: transparent;}
+
   svg[name="Nova_Discord"] {display: none!important;}
   /* == better formating redux plguin == */
   .bf-toolbar:before {
