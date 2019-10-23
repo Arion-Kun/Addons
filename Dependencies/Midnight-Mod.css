@@ -17,6 +17,7 @@
 	--succes: #17e81d;
 	--error: #f30c0c;
 	--warning: #e7a418;
+	--arion1: #323333;
   }
   /* == Theme core == */
 	/* app font */
@@ -1077,11 +1078,11 @@
   /* == spoilers == */
   .spoilerText-3p6IlD.hidden-HHr2R9 {
 	border-radius: 8px;
-	background-color: var(--backgroundColor)!important;
+	background-color: var(--arion1)!important;
   }
   .spoilerText-3p6IlD {
 	border-radius: 8px;
-	background-color: var(--backgroundColor)!important;
+	background-color: var(--arion1)!important;
 	position: relative;
 	overflow: hidden;
 	padding: 2px 6px;
