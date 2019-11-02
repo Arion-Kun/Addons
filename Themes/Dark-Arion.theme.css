@@ -31,9 +31,15 @@ feel free to ask me, if you're reading this
 you can easily see how to contact me.
 
 This theme is meant to be used with the dark version of discord
-###################################################################################################*/
+####################################################################################################################################*/
 @import url(https://arion-kun.github.io/Addons/Dependencies/Dark-Dependency.css);
-/*###################################################################################################*/
+/* Addon Extras --- JUST DELETE THE LINK TO REMOVE AN ADDON #####################################################################*/
+@import url(https://arion-kun.github.io/Addons/Additionals/Watermark.css);                  /*  --Top Watermark Removal         */
+@import url(https://arion-kun.github.io/Addons/Dependencies/HorizontalServerListBase.css); /*   --Horizontal Serverlists       */
+@import url(https://arion-kun.github.io/Addons/Addons/statusRounded.css);                 /*    --Round Status Icons          */
+@import url(https://arion-kun.github.io/Addons/Addons/compactChannelsList.css);          /*     --Compact Server Channels    */
+@import url(https://arion-kun.github.io/Addons/Addons/compactMembersList.css);          /*      --Compact Memberslist       */
+/*#########################################################################################################################*/
 :root {
   /* Background color */
   --backgroundColor: #121212;
