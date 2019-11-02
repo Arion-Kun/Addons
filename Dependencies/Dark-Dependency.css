@@ -37,3 +37,16 @@
                                         /*###############################################################################################*/
                                        /*#*/@import url(https://arion-kun.github.io/Addons/Additionals/Dark-Theme/Imports-Fetch.css);/*#*/
                                       /*###############################################################################################*/
+
+
+/* Final Additionals Based on Priorities */
+
+/* Removes the grey background from the 'Home' button that leads to the friends list */
+.wrapper-1BJsBx[aria-label="Home"] .childWrapper-anI2G9 {
+	background-image: var(--homeButtonImage), transparent;
+	background-position: center;
+	background-size: cover;
+	background-clip: border-box;
+	background-repeat: no-repeat;
+  }
+/* Arion#1223 */
