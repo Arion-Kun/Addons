@@ -1,0 +1,57 @@
+/* 
+Made by Four_DJ
+*/
+
+body, div, span, textarea, ::-webkit-input-placeholder {
+    text-shadow: -1px -1px 1px #000, 1px -1px 1px #000, -1px 1px 1px #000, 1px 1px 1px #000;
+}
+
+
+[class~=app] {
+    background: var(--background-image) !important;
+    background-size: cover !important;
+}
+
+.appMount-3lHmkl {
+    -ms-flex-direction: column;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: vertical;
+    background-color: transparent;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+    position: absolute;
+    width: 100vw;
+    background: var(--background-image) !important;
+    background-size: cover !important;
+}
+
+body>div:last-of-type {
+    background: var(--background-image) !important;
+    background-size: cover !important;
+}
+
+.markup-2BOw-j {
+    background: rgba(0,0,0,0.2);
+}
+
+.withFrame-haYltI {
+    height: 18px;
+    margin-top: 0px;
+    background: rgba(0,0,0,0.7);
+}
+
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
+    background-color: transparent;
+    background : rgba(0,0,0,0.2);
+    border: transparent;
+}
+
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
+    background-color: transparent;
+    background : rgba(0,0,0,0.2);
+    border-color: rgba(0,0,0,0.1);
+}
