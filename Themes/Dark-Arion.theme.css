@@ -64,7 +64,11 @@ This theme is meant to be used with the dark version of discord
   --channelsActive: #fff;
   --channelsMuted: #7d7d7d;
 
-  /* Theme custom font (You need to import the font file first)*/
+  /* Theme custom font (You need to import the font file first)
+  Choices: 
+  1) 'Ubuntu'
+  2) 'Mi Font'
+  */
   --customFont: 'Ubuntu';
 
   /* For The Horizontal Serverlist Settings */
