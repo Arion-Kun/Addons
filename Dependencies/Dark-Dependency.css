@@ -52,3 +52,45 @@
 /* Create DM Remove */
 .privateChannelRecipientsInviteButtonIcon-cXLJ7f {display: none;}
 /* Arion#1223 */
+
+/* QoL */ 
+.typeWindows-1za-n7 {
+  display: none;
+}
+/* Arion#1223 */
+
+/* Chatbox Fix 13/12/2019 */
+.attachWrapper-1_D-pj {
+  z-index: 1;
+}
+.chat-3bRxxu .textArea-2Spzkt {
+  border: 2px solid rgba(255, 255, 255, 0.07);
+  border-radius: 8px;
+  transition: all .15s ease-in-out;
+}
+.chat-3bRxxu .textArea-2Spzkt:focus-within {
+  border: 2px solid var(--main-color);
+  border-radius: 8px;
+  transition: all .15s ease-in-out;
+}
+.placeholder-P6ptfj {
+  left: 65px
+}
+.slateTextArea-1bp44y {
+  position: inherit;
+}
+.webkit-26NYEN .buttons-205you {
+  border: 2px solid transparent;
+  margin-right: 0px;
+}
+.channelTextArea-1LDbYG .attachWrapper-1_D-pj {
+  left: 2px;
+  top: 2px;
+}
+/* Arion#1223 */
+
+/* BG Opacity Fix */
+.container-2lgZY8, .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ {
+  background-color: rgba(1, 1, 1, 0.4) !important;
+}
+/* Arion#1223 */
