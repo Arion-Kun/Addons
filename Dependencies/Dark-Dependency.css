@@ -89,24 +89,3 @@
 }
 /* Arion#1223 */
 
-.appMount-3lHmkl::after {
-  content: none;
-}
-.appMount-3lHmkl::before {
-  content: "";
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  pointer-events: none;
-  background-image: var(--backgroundImage);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-clip: border-box;
-  background-attachment: fixed;
-  background-origin: border-box;
-  -webkit-mask: radial-gradient(#000 40%, transparent);
-  z-index: 0;
-  opacity: var(--backgroundImageOpacity);
-}
-
