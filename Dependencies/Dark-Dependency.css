@@ -83,9 +83,26 @@
 }
 /* Arion#1223 */
 
-/* BG Opacity Fix */
+/* Custom CSS Detached Width [#1223] */
+#bd-customcss-detach-container{width: 40%}
+
+/* BG Opacity Fix [Arion] */
+.container-2lgZY8, .embedWrapper-3AbfJJ, .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ {
+background-color: rgba(1, 1, 1, 1) !important;
+}
+
+.theme-dark .modal-yWgWj-, .theme-dark .footer-3rDWdC {
+  background-color: rgba(24, 28, 37, 1) !important;
+}
+.scrollableContainer-38zsVD {
+  background-color: rgba(24, 28, 37, 1);
+}
+
+.slateTextArea-1bp44y {
+  left: 0px;
+}
+
 .container-2lgZY8, .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ {
   background-color: rgba(1, 1, 1, 1) !important;
 }
-/* Arion#1223 */
-
+/* END */
