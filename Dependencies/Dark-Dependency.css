@@ -83,8 +83,9 @@
 }
 /* Arion#1223 */
 
-/* Custom CSS Detached Width [#1223] */
-#bd-customcss-detach-container{width: 40%}
+/* Custom CSS Things [#1223] */
+#bd-customcss-detach-container{width: 40%;} /* Detached Width */
+.contentColumn-2hrIYH {max-width: 1000px;} /* CSS Size Attached */
 
 /* BG Opacity Fix [Arion] */
 .container-2lgZY8, .embedWrapper-3AbfJJ, .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ {
