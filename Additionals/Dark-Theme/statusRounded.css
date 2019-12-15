@@ -1,7 +1,6 @@
 @import url(https://codedotspectra.github.io/themes/mini-themes/statusRounded.css);
 
 [role="img"][aria-label]:before {
-    content: "";
     position: absolute;
     top: 0;
     left: 0;
