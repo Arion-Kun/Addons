@@ -55,6 +55,7 @@ This theme is meant to be used with the dark version of discord
   --uiGradient1: #0dbef4;
   --uiGradient2: #121212;
   /* Text Colors */
+  
   --textNormal: #dcddde;
   --textMuted: #72767d;
   --textLinks: Blue;
@@ -63,6 +64,7 @@ This theme is meant to be used with the dark version of discord
   --channelsHover: #ebebeb;
   --channelsActive: #fff;
   --channelsMuted: #7d7d7d;
+  --channeltextarea-background: #40444b12;
 
   /* Theme custom font (You need to import the font file first)
   Choices: 
