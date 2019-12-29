@@ -110,3 +110,35 @@ background-color: rgba(1, 1, 1, 1) !important;
   left: 20px;
 }
 /* END */
+
+.attachWrapper-1_D-pj {
+  z-index: 1;
+}
+.chat-3bRxxu .textArea-2Spzkt {
+  border: 0px;
+  border-radius: 8px;
+  transition: all .15s ease-in-out;
+}
+.chat-3bRxxu .textArea-2Spzkt:focus-within {
+  border: 2px solid;
+  border-radius: 8px;
+  transition: all .15s ease-in-out;
+}
+.slateTextArea-1Mkdgw {
+  left: 0;
+}
+.webkit-26NYEN .buttons-205you {
+  border: 2px solid transparent;
+  margin-right: 0px;
+}
+.scrollableContainer-2NUZem{
+  background: transparent
+}
+.inner-MADQqc {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  background-color: transparent;
+  border-radius: 150px;
+}
