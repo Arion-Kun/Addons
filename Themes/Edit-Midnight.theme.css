@@ -1,7 +1,5 @@
 //META{"name":"Midnight","description":"Mainly edited by Arion","author":"arion#1223","version":"1.0"}*//
 @import url(https://arion-kun.github.io/Addons/Dependencies/Custom-Midnight-Imports-Fetch.css);
-@import url(https://codedotspectra.github.io/themes/mini-themes/customFont.css);
-@import url('https://fonts.googleapis.com/css?family=Ubuntu');
 :root {
 --bg: url('https://arion-kun.github.io/Addons/Assets/Images/BG_A.jpg');
 --lvl-bg-opacity: 1;
