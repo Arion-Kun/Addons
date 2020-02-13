@@ -6,3 +6,8 @@
 @import url("https://arion-kun.github.io/Addons/Additionals/fonts.css");
 @import url("https://arion-kun.github.io/Addons/Additionals/base.css");
 @import url("https://arion-kun.github.io/Addons/Additionals/userPopouts.css");
+
+:root {
+--theme-long-name: 'Midnight';
+--theme-version: '1.1'
+}
