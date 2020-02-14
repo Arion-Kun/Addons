@@ -9935,7 +9935,7 @@ html body #app-mount .container-1YxwTf .markup-2BOw-j>.anchor-3Z-8Bb[href*="drix
 }
 
 .info-1VyQPT .colorMuted-HdFt4q:last-child:after {
-  content:'Midnight UI v' var(--theme-version) ' by Tropical';
+  content:'Midnight  v' var(--theme-version);
   display:block;
 }
 
