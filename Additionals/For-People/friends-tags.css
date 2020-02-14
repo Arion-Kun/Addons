@@ -2,7 +2,7 @@
 /* Arion */
 .avatar-1BDn8e[src*="155396491853168640"]:hover + span::after {
     content: "Theme Developer";
-    --main-color: #FF00FF00;
+    animation: mentionpulse 1.5s infinite, popoutanim .2s, fadeFromRight .2s;
   }
 /* Miranda */
 .avatar-1BDn8e[src*="197623684964286464"]:hover + span::after {
