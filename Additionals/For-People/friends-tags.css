@@ -4,6 +4,14 @@
     content: "Theme Developer";
     animation: mentionpulse 1.5s infinite, popoutanim .2s, fadeFromRight .2s;
   }
+
+  /* Arion Glow */
+  .avatar-1BDn8e[src*='155396491853168640']{
+    border-radius: 10px!important;
+    box-shadow: 0 0 0 25px rgba(0, 173, 255, 0.2)!important;
+    animation: mentionpulse 1.5s infinite, popoutanim .2s;
+}
+
 /* Miranda */
 .avatar-1BDn8e[src*="197623684964286464"]:hover + span::after {
     content: 'This is cute Miwanda uwu';
