@@ -1,0 +1,3 @@
+.avatar-1BDn8e[src*="155396491853168640"]:hover + span::after {
+    content: "Theme Developer";
+  }

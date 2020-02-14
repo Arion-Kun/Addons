@@ -1,0 +1,16 @@
+/*link: https://arion-kun.github.io/Addons/Additionals/For-People/friends-tags.css */
+/* Arion */
+.avatar-1BDn8e[src*="155396491853168640"]:hover + span::after {
+    content: "Theme Developer";
+    --main-color: #FF00FF00;
+  }
+/* Miranda */
+.avatar-1BDn8e[src*="197623684964286464"]:hover + span::after {
+    content: 'This is cute Miwanda uwu';
+    --main-color: #ffb9bb;
+  }
+/* Jarich */
+.avatar-1BDn8e[src*="197783866327564289"]:hover + span::after {
+    content: "This is Miwanda's Boeyfwiend";
+    --main-color: #ADD8E6;
+  }
