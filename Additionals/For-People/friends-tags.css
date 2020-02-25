@@ -1,9 +1,15 @@
 /*link: https://arion-kun.github.io/Addons/Additionals/For-People/friends-tags.css */
 /* Arion */
 .avatar-1BDn8e[src*="155396491853168640"]:hover + span::after {
-    content: " Theme Developer";
-    animation: mentionpulse 1.5s infinite, popoutanim .2s, fadeFromRight .2s;
-  }
+  content: ' Arion - Theme Developer';
+  color: #FFF;
+  --main-color: #FFF;
+  background-image: url(https://i.imgur.com/0tAtFyG.gif);
+  text-shadow: -1px 0 black, 
+    0 1px black, 
+    1px 0 black, 
+    0 -1px black !important;
+}
 
   /* Arion Glow */
   .avatar-1BDn8e[src*='155396491853168640']{
@@ -13,8 +19,11 @@
 }
 
 /* Miranda */
-.avatar-1BDn8e[src*="197623684964286464"]:hover + span::after {
-    content: ' This is cute Miwanda uwu';
+  .avatar-1BDn8e[src*="197623684964286464"]:hover + span::after {
+    content: " This is cute Miwanda uwu";
+    color: transparent;
+    text-shadow: none;
+    background-image: url(https://i.imgur.com/wQS2mYR.gif);
     --main-color: #ffb9bb;
   }
 /* Jarich */
