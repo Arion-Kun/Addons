@@ -299,3 +299,10 @@
 	background-repeat: no-repeat;
 	-webkit-mask-image: radial-gradient(black, transparent var(--lvl-bg-fade))
 }
+
+/* Account Creation Plugin Support:
+*/
+.creationDate {
+    top: 5px;
+}
+/* */
