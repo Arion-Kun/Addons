@@ -51,7 +51,7 @@
 
 /* Darky Boo Gif */
 .avatar-1BDn8e[src*="391983841494958100"]:hover + span::after {
-  content: '';
+  content: '                                  ';
   color: #FFF;
   --main-color: #FFF;
   background-image: url(https://cdn.discordapp.com/attachments/616004825502580755/683075330256142346/1d5dbd4588a0d02546d0fe507bd31e28.gif);
