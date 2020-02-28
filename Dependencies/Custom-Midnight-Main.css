@@ -10223,3 +10223,5 @@ html body #app-mount .container-1YxwTf .markup-2BOw-j>.anchor-3Z-8Bb[href*="drix
 .scroller-2TZvBN {
 	position:static;
 }
+/* Removed online numbers */
+.friendsOnline-2JkivW {display: none;}
