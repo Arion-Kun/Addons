@@ -8940,12 +8940,12 @@ box-shadow: 0 6px 10px -8px var(--accent);
 .activity-1ythUs:not(.activityProfile-2bJRaP) {
 	background: transparent;
 	position: absolute;
-	top: 232px;
-	right:10px;
+	top: 160px;
+	left:120px;
 	width: fit-content;
 	padding: 4px 8px;
-  display:flex;
-  align-items:center;
+  	display:flex;
+  	align-items:center;
 }
 
 .activityProfile-2bJRaP .headerText-3i6A8K {
@@ -8957,8 +8957,13 @@ box-shadow: 0 6px 10px -8px var(--accent);
 }
 
 .customStatus-154i-H .customStatusEmoji-3BvdMX.customStatusSoloEmoji-192Z_4 {
-    height:20px;
-    width:20px;
+	border-style: solid;
+	border-width: 1.2px;
+	border-color: hsla(0,0%,100%,.3);
+	/* Removed 
+	height:20px;
+	width:20px;
+	*/
 }
 
 .activityHeader-1PExlk {
