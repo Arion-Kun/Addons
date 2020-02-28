@@ -28,7 +28,7 @@
 .avatar-1BDn8e:hover + span::after {
   font-family: "Whitney", "Helvetica";
   --main-color: #000;
-  background-color: var(--main-color);
+  background-color: var(--main-color);                      
   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
   padding: 3px 10px;
   border-radius: 3px;

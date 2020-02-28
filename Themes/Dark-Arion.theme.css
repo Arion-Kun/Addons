@@ -45,8 +45,9 @@ This theme is meant to be used with the dark version of discord
   --backgroundColor: #121212;
 
   /* Background image */
-  --backgroundImage: url('https://arion-kun.github.io/Addons/Assets/Images/Chat-Background.jpg');
-  --backgroundImageOpacity: .45;
+  --bg: url('https://arion-kun.github.io/Addons/Assets/Images/BG_A.jpg');
+  /* Background Opacity */
+	--lvl-bg-opacity: 1;
 
   /* Home button image */
   --homeButtonImage: url('https://arion-kun.github.io/Addons/Assets/Images/Dark-Theme/friends.png');
