@@ -1550,7 +1550,7 @@ a:hover .foreground-26ym5y {
 }
 
 .chat-3bRxxu form .buttons-3JBrkn {
-	position: fixed;
+	position: relative;
 	right: 0;
 	z-index: 100;
 	bottom: 0;
@@ -7298,6 +7298,7 @@ body #app-mount .da-container .da-markup pre .hljs[class$="hljs"]::before {
 	padding:0 10px;
 }
 
+/* Removed 
 .membersWrap-2h-GB4 .scrollerWrap-2lJEkd::after {
   content:'';
   width:100%;
@@ -7308,7 +7309,7 @@ body #app-mount .da-container .da-markup pre .hljs[class$="hljs"]::before {
   bottom:-50px;
   z-index:1;
 }
-
+*/
 .membersWrap-2h-GB4 {
   border-bottom:50px solid rgba(255,255,255,0.07);
 }
