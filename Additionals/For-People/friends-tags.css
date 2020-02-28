@@ -42,6 +42,13 @@
     --main-color: #ADD8E6;
 }
 
+/* GhostKaiser000 by Joichi */
+.avatar-1BDn8e[src*="626846506258923531"]:hover + span::after {
+  content: " Joichi's Slave";
+  color: #000
+  --main-color: #ADD8E6;
+}
+
 
 
 
