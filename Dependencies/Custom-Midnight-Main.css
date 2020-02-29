@@ -10024,13 +10024,13 @@ html body #app-mount .container-1YxwTf .markup-2BOw-j>.anchor-3Z-8Bb[href*="drix
   text-shadow:0 0 12px currentColor;
   font-size:var(--size1);
 }
-
+/* Discord update broke this 
 .container-1ov-mD {
 	position:relative;
 	top:-24px;
 	left:55px;
 }
-
+*/
 .isUnread-3Ef-o9 {
 	top:-25px;
 	margin:0 !important;
