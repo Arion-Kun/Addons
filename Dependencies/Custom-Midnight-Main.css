@@ -832,7 +832,7 @@ a:hover .foreground-26ym5y {
 .chat-3bRxxu form .typing-2GQL18 {
 	background: var(--lv1);
 	box-shadow: inset 0 0 0 100vmax rgba(255, 255, 255, .08), 0 0 10px #000;
-	top:-40px;
+	top:-27px;
 	animation: opacity .3s ease;
 	transform-origin: bottom left;
 	transform: scale(1);
@@ -10220,8 +10220,8 @@ html body #app-mount .container-1YxwTf .markup-2BOw-j>.anchor-3Z-8Bb[href*="drix
 }
 
 /*New Canary Guilds Fixes*/
-.scroller-2TZvBN {
-	position:static;
-}
+.scroller-2TZvBN {position:static;}
 /* Removed online numbers */
 .friendsOnline-2JkivW {display: none;}
+/* Chat Fix */
+.base-gE7OpD {left:10px;right:13px;}
