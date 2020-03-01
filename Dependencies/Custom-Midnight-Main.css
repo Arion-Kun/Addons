@@ -3805,7 +3805,7 @@ img[src*="/assets/9e8f566e6d49e8f4bba138e1d6a50578.svg"] {
   margin:0;
 }
 
-.userPopout-3XzG_A .avatarWrapper-3H_478[user_by_bdfdb*="254362351170617345"] + .headerText-2sdzFM .headerTag-2pZJzA:after {
+.userPopout-3XzG_A .avatarWrapper-3H_478[user_by_bdfdb*="155396491853168640"] + .headerText-2sdzFM .headerTag-2pZJzA:after {
   content:'Dev';
   position:absolute;
   right:10px;
@@ -10221,7 +10221,3 @@ html body #app-mount .container-1YxwTf .markup-2BOw-j>.anchor-3Z-8Bb[href*="drix
 
 /*New Canary Guilds Fixes*/
 .scroller-2TZvBN {position:static;}
-/* Removed online numbers */
-.friendsOnline-2JkivW {display: none;}
-/* Chat Fix */
-.base-gE7OpD {left:10px;right:13px;}

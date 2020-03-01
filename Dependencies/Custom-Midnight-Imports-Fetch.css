@@ -1,3 +1,4 @@
+@import url("https://tropix126.github.io/BetterDiscordStuff/midnight/css/base.css"); /* Main Edits follow the original */
 @import url("https://arion-kun.github.io/Addons/Additionals/customFonts.css");
 @import url("https://arion-kun.github.io/Addons/Dependencies/Custom-Midnight-Main.css");
 
@@ -8,6 +9,8 @@
 @import url("https://arion-kun.github.io/Addons/Additionals/base.css");
 @import url("https://arion-kun.github.io/Addons/Additionals/userPopouts.css");
 @import url('https://arion-kun.github.io/Addons/Additionals/For-People/friends-tags.css');
+
+
 @import url('https://arion-kun.github.io/Addons/Additionals/Midnight/Main-Fixes-Midnight.css');
 :root {
 --theme-long-name: 'Midnight';

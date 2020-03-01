@@ -3,3 +3,12 @@
 .cozy-3raOZG.wrapper-2a6GCs {
 	padding-top:0;
 }
+
+/* Removed online numbers */
+.friendsOnline-2JkivW {display: none;}
+/* Chat Fix */
+.base-gE7OpD {left:10px;right:13px;}
+/* Popup Removal */
+.bda-slist::before {display: none;}
+
+.privateChannels-1nO12o .searchBar-6Kv8R2 {right: 0px;}
