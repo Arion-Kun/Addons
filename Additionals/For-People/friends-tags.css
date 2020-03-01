@@ -20,7 +20,23 @@
     box-shadow: 0 0 0 25px rgba(0, 173, 255, 0.2)!important;
     animation: mentionpulse 1.5s infinite, popoutanim .2s;
 }
+/* Dev Tag on Arion */
+.userPopout-3XzG_A .avatarWrapper-3H_478[user_by_bdfdb*="155396491853168640"] + .headerText-2sdzFM .headerTag-2pZJzA:after {
+  content:'Dev';
+  position:absolute;
+  right:10px;
+  border-radius:2px;
+  color: var(--accent);
+  font-size: .8em;
+  font-weight: 500;
+  height: 1.28em;
+  padding: .072rem .275rem;
+  line-height:1.28em;
+  background:#fff;
+  z-index:2;
+}
 
+/* ----------------------------------------- */
 /* Miranda */
   .avatar-1BDn8e[src*="197623684964286464"]:hover + span::after {
     content: " This is cute Miwanda uwu";
