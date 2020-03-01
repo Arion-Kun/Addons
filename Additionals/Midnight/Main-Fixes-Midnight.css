@@ -64,9 +64,9 @@
 	display: inline-block;
 	text-align: center;
 	white-space: nowrap;
-	border: 2px solid #e78e4e;
+	border: 2px solid #fff;
 	border-radius: 1px;
-	background: rgba(231, 142, 78, 0.5);
+	background: rgba(33, 33, 33, 0.7);
 	text-shadow: none;
 	color: rgba(255, 255, 255, 0.95);
 	position: absolute;
@@ -77,6 +77,9 @@
 	cursor: default;
 }
 
+.cozy-3raOZG .header-23xsNx {backdrop-filter: blur(0px)!important; }
+
+.BE-badge.BE-badge-mini:first-of-type {right:-3px;}
 
 /* Removed online numbers */
 .friendsOnline-2JkivW {display: none;}
