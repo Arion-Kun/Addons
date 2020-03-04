@@ -20,9 +20,6 @@
 	height: 20px!important;
 	background-color: rgba(0, 149, 255, 0)!important;
 }
-
-.chat-3bRxxu form .buttons-3JBrkn {position: relative;}
-
 		
 #bd-settingspane-container h2.ui-form-title,	
 .contentRegion-3nDuYy .defaultColor-1_ajX0 {width:100%!important;}
@@ -92,3 +89,8 @@
 
 .cozy-3raOZG .messageContent-2qWWxC{bottom:-15px;}
 /* Chat Moved a bit down */
+
+/* Reverted Items:
+
+.chat-3bRxxu form .buttons-3JBrkn {position: relative;}
+*/
