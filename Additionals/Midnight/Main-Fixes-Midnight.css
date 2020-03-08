@@ -49,7 +49,7 @@
 
 .listAvatar-1NlAhb {filter:blur(250px);}
 
-.info-1VyQPT .colorMuted-HdFt4q:last-child:after {content: var(--theme-long-name) 'v' var(--theme-version)!important;}
+.info-1VyQPT .colorMuted-HdFt4q:last-child:after {content: var(--theme-long-name) ' v ' var(--theme-version)!important;}
 
 .avatar-1BDn8e[src*="155396491853168640"] + h2 .timestamp-3ZCmNB::before {
 	content: 'Theme Dev'!important;
