@@ -101,4 +101,10 @@
 .cozy-3raOZG .header-23xsNxheaderBlurDelay{animation: headerBlurDelay 0ms ease backwards!important;}
 .hasMore-3e72_v, .divider-JfaTT5:not(.isUnread-3Ef-o9){backdrop-filter: blur(0px)!important;}
 
-.base-19D3Qq, .welcomeMessage-ULm0mo {border: 2px solid var(--main-color)!important;background: var(--invisible)!important;}
+/* NEW VARS! */
+:root {
+  --mc: var(--main-color);
+  --invis: var(--invisible);
+}
+
+.base-19D3Qq, .welcomeMessage-ULm0mo {border: 2px solid var(--mc)!important;background: var(--invis)!important;}
