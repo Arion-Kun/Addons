@@ -96,3 +96,7 @@
 /* Reverted Items:
 .chat-3bRxxu form .buttons-3JBrkn {position: relative;}
 */
+
+/* Chat Head Blur  -removal */
+.cozy-3raOZG .header-23xsNxheaderBlurDelay{animation: headerBlurDelay 0ms ease backwards!important;}
+.hasMore-3e72_v, .divider-JfaTT5:not(.isUnread-3Ef-o9){backdrop-filter: blur(0px)!important;}
