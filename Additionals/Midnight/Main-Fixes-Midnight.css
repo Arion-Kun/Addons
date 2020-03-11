@@ -109,4 +109,10 @@
   --invis: var(--invisible);
 }
 
-.base-19D3Qq, .welcomeMessage-ULm0mo {border: 2px solid var(--mc)!important;background: var(--invis)!important;}
+.base-19D3Qq, .welcomeMessage-ULm0mo {
+	border: 2px solid var(--mc)!important;
+	background: var(--invis)!important;}
+.systemMessage-1I9LCe {
+    border: 2px solid var(--mc)!important;
+    background: var(--invis)!important;
+}
