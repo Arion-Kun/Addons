@@ -8,7 +8,9 @@
     content:''!important;
     background-image:url()!important;}
 
-.chat-3bRxxu form .typing-2GQL18 {top:-27px!important;}
+	.chat-3bRxxu form .typing-2GQL18 {
+		top:-33px!important;
+		left:20px!important;}
 
 .privateChannels-1nO12o .searchBar-6Kv8R2 {
 	position: absolute;
