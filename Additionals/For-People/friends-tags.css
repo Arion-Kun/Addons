@@ -82,7 +82,7 @@
   --main-color: #ADD8E6;
 }
 
-/* Darky Boo Gif */
+/* Darky01#1309 */
 .avatar-1BDn8e[src*="391983841494958100"]:hover + h2::after {
   content: '                                  ';
   color: #FFF;
@@ -94,4 +94,8 @@
     0 1px black, 
     1px 0 black, 
     0 -1px black !important;
+}
+[user_by_bdfdb*="391983841494958100"],
+[aria-label*="391983841494958100,"] {
+	--user-background: url('https://cdn.discordapp.com/attachments/533647732116684800/687747118282047505/UF89ccDo0ByHJUPsyYrZf73G.gif');
 }
