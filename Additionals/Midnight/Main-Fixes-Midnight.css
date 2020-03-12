@@ -116,3 +116,6 @@
     border: 2px solid var(--mc)!important;
     background: var(--invis)!important;
 }
+
+/* Account Creation Addon Moved */
+.creationDate{left:355px;}
