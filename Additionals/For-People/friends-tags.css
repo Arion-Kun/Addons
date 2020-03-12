@@ -1,5 +1,21 @@
-/*link: @import url('https://arion-kun.github.io/Addons/Additionals/For-People/friends-tags.css'); */
- /* REDUNDANT - @import url('https://arion-kun.github.io/Addons/Additionals/Midnight/user-tags.css'); */
+/* Tropical Dependency */
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css');
+@import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
+/* END */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Arion */
 .avatar-1BDn8e[src*="155396491853168640"]:hover + h2::after {
   content: '              Arion              ';
@@ -31,6 +47,10 @@
   line-height:1.28em;
   background:#fff;
   z-index:2;
+}
+[user_by_bdfdb*="155396491853168640"],
+[aria-label*="155396491853168640,"] {
+	--user-background: url('https://i.imgur.com/pqdICWJ.gif');
 }
 
 /* ----------------------------------------- */
