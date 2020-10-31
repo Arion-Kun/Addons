@@ -1,0 +1,31 @@
+.theme-dark .isMentioned-N-h9aa .mention, .theme-light .isMentioned-N-h9aa .mention:hover,.theme-dark .wrapper-3WhCwL:hover, .theme-dark .wrapper-3WhCwL {
+  background: transparent !important;
+}
+.theme-dark .isMentioned-N-h9aa .mention, .theme-light .isMentioned-N-h9aa .mention,.theme-dark .wrapper-3WhCwL,.theme-dark .wrapper-3WhCwL:hover,.theme-dark .isMentioned-N-h9aa, .theme-dark .isMentioned-N-h9aa {
+  color: #00e5ff;
+  animation: rainbowmention 3s infinite linear;
+}
+@keyframes rainbowmention {
+  from {
+    -webkit-filter: hue-rotate(0deg);
+  }
+  to {
+    -webkit-filter: hue-rotate(360deg);
+  }
+}
+
+
+.da-activityText:nth-of-type(1) {
+background: transparent !important;
+color: #00e5ff;
+text-shadow: 2px 2px 4px #000000;
+animation: rainbowstatus 1s infinite linear;
+}
+
+@keyframes rainbowstatus {
+from {
+  -webkit-filter: hue-rotate(0deg);
+}
+to {
+  -webkit-filter: hue-rotate(360deg);
+  .username-1A8OIy { text-shadow: 0px 1px 6px #fff; }
